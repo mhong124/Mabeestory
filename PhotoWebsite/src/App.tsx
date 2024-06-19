@@ -1,5 +1,4 @@
 import "./App.css";
-import Navbar from "./components/navbar/Navbar";
 
 import {Route, Routes} from "react-router-dom";
 
@@ -19,7 +18,6 @@ export default function App() {
         <Route path = "/food" element = {<Food/>}/>
         <Route path = "/misc" element = {<Misc/>}/>
       </Routes>
-      <Navbar/>
     </div>
   );
 }
