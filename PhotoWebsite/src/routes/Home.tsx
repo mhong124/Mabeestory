@@ -4,6 +4,8 @@ import Hero from "../components/hero/Hero";
 
 import About from "../components/about/About";
 
+import Footer from "../components/footer/Footer";
+
 import {getImageUrl} from "../u";
 
 function Home() {
@@ -17,6 +19,7 @@ function Home() {
                 text = "Photo Portfolio"
             />
             <About/>
+            <Footer />
         </>
     );
 }
