@@ -9,7 +9,7 @@ function Nature() {
         <>
         <Navbar />
         <Hero 
-            cName = "hero"
+            cName = "hero-mid"
             img = {getImageUrl("hero/nature.JPG")}
             title = "Nature"
             text = "beautiful"
