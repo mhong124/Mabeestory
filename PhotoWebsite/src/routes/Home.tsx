@@ -6,6 +6,8 @@ import About from "../components/about/About";
 
 import Footer from "../components/footer/Footer";
 
+import Cameras from "../components/cameras/Cameras";
+
 import {getImageUrl} from "../u";
 
 function Home() {
@@ -19,6 +21,7 @@ function Home() {
                 text = "Photo Portfolio"
             />
             <About/>
+            <Cameras />
             <Footer />
         </>
     );
