@@ -36,7 +36,7 @@ const Cameras = () => {
                         <img src = {getImageUrl("hero/canon.jpg")}></img>
                     </div>
                     <h4>Canon EOS 1100D</h4>
-                        <p>My first and only DLSR! Bought from my beautiful and generous friend Julie, I am excited to use this camera more!
+                        <p>My first and only DSLR! Bought from my beautiful and generous friend Julie, I am excited to use this camera more!
                             I am most excited to use it to take photos of nature, and even more importantly to do photoshoots for my friends!
                         </p>
                 </div>

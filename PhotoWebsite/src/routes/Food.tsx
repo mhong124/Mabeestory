@@ -15,7 +15,7 @@ function Food() {
                 cName = "hero-mid"
                 img = {getImageUrl("hero/food.JPG")}
                 title = "Food"
-                text = "beautiful"
+                text = "May All Your Bacon Burn - Howl's Moving Castle"
             />
 
             <Footer />
