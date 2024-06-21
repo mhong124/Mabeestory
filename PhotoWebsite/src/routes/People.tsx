@@ -13,7 +13,7 @@ function People() {
 
         <Hero 
             cName = "hero-mid"
-            img = {getImageUrl("hero/nature.JPG")}
+            img = {getImageUrl("hero/people.JPG")}
             title = "People"
             text = "beautiful"
         />
