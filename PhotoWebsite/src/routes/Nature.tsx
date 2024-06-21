@@ -14,8 +14,7 @@ function Nature() {
             cName = "hero-mid"
             img = {getImageUrl("hero/nature.JPG")}
             title = "Nature"
-            text = "Be my umbrella on rainy days,
-            On days when the sun rises, I'll protect you - Home Lim Young Woong"
+            text = "Be my umbrella on rainy days, On days when the sun rises, I'll protect you - Home Lim Young Woong"
         />
 
         <Footer/>

@@ -15,9 +15,7 @@ function People() {
             cName = "hero-mid"
             img = {getImageUrl("hero/people.JPG")}
             title = "People"
-            text = "While the sunset fades,
-             The pink light vividly painted you,
-             Beautiful you - pink w2e"
+            text = "While the sunset fades, The pink light vividly painted you, Beautiful you - pink w2e"
         />
 
         <Footer />
