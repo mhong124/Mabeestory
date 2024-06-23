@@ -15,7 +15,7 @@ function Places() {
                 cName = "hero-mid"
                 img = {getImageUrl("hero/places.JPG")}
                 title = "Places"
-                text = "May All Your Bacon Burn - Howl's Moving Castle"
+                text = "Far away in the universe from Earth to Mars, Will you please go with me? - Love Wins All IU"
             />
 
             <Footer />
