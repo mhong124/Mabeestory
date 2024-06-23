@@ -1,6 +1,6 @@
 import "./Hero.css";
 
-function Hero(props){
+function Hero(props:any){
     return (
         <>
             <div className = {props.cName}> 

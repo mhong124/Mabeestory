@@ -14,7 +14,7 @@ import "yet-another-react-lightbox/plugins/thumbnails.css";
 
 import Images from "./Images";
 
-function Gallery(props) {
+function Gallery(props:any) {
     // const [open, setOpen] = useState<boolean>(false);
 
     const [index, setIndex] = useState<number>(-1);
