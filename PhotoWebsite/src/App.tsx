@@ -7,6 +7,7 @@ import Nature from "./routes/Nature";
 import People from "./routes/People";
 import Food from "./routes/Food";
 import Misc from "./routes/Misc";
+import Places from "./routes/Places"
 
 export default function App() {
   return (
@@ -17,6 +18,7 @@ export default function App() {
         <Route path = "/people" element = {<People/>}/>
         <Route path = "/food" element = {<Food/>}/>
         <Route path = "/misc" element = {<Misc/>}/>
+        <Route path = "/places" element = {<Places/>}/>
       </Routes>
     </div>
   );

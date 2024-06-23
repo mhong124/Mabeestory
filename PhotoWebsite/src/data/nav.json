@@ -10,6 +10,11 @@
         "icon": "nav/nature.png"
     },
     {
+        "title": "Places",
+        "url": "/places",
+        "icon": "nav/places.png"
+    },
+    {
         "title": "People",
         "url": "/people",
         "icon": "nav/people.png"
