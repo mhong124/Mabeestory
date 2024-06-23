@@ -4,6 +4,10 @@ import Hero from "../components/hero/Hero";
 
 import {getImageUrl} from "../u";
 
+import Gallery from "../components/gallery/Gallery";
+
+import {foodJ} from "../data/food";
+
 import Footer from "../components/footer/Footer";
 
 function Food() {
@@ -16,6 +20,10 @@ function Food() {
                 img = {getImageUrl("hero/food.JPG")}
                 title = "Food"
                 text = "May All Your Bacon Burn - Howl's Moving Castle"
+            />
+
+            <Gallery 
+                json = {foodJ}
             />
 
             <Footer />

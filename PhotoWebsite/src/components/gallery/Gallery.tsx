@@ -21,6 +21,8 @@ function Gallery(props) {
     return (
         <>
 
+        <h1>Click on my photos!</h1>
+
         <Images data = {props.json} onClick = {(currentIndex) => {setIndex(currentIndex)}}/>
 
         <Lightbox

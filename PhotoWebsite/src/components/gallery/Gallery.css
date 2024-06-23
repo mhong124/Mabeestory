@@ -1,9 +1,9 @@
 .images {
-    max-width: 1200px;
-    margin: 10px auto;
+    max-width: 1300px;
+    margin: 40px auto;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
-    gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
 }
 
 .image {
@@ -17,4 +17,14 @@
     height: 100%;
     object-fit: cover;
     border-radius: 8px;
+    transition: 0.3s ease-in-out;
+    box-shadow: 0 5px 25px 2px rgba(0,0,0,0.11);
+}
+
+.image:hover img {
+    transform: scale(1.1);
+}
+
+h1 {
+    font-size: 50px;
 }
