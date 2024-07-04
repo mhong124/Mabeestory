@@ -4,92 +4,92 @@ export const natureJ =
 [
     {
         src : getImageUrl("nature/1.JPG"),
-        title : "",
-        description : ""
+        title : "Hydrangeaa",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/2.JPG"),
-        title : "",
-        description : ""
+        title : "White flowers",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/3.JPG"),
-        title : "",
-        description : ""
+        title : "Fountain Statue",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/4.JPG"),
-        title : "",
-        description : ""
+        title : "Hanging Gourds",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/5.JPG"),
-        title : "",
-        description : ""
+        title : "A Place to Sit and Relax",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/6.JPG"),
-        title : "",
-        description : ""
+        title : "Hanging Gourds and Flowers",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/7.JPG"),
-        title : "",
-        description : ""
+        title : "Hydrangeas",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/8.JPG"),
-        title : "",
-        description : ""
+        title : "Statue Boy Overlooking Lily Pads",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/9.JPG"),
-        title : "",
-        description : ""
+        title : "Hanging Flowers",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/10.JPG"),
-        title : "",
-        description : ""
+        title : "Bursting Flowers",
+        description : "Annapolis, MD"
     },
     {
         src : getImageUrl("nature/11.JPG"),
-        title : "",
-        description : ""
+        title : "Tulips",
+        description : "Washington, D.C"
     },
     {
         src : getImageUrl("nature/12.JPG"),
-        title : "",
-        description : ""
+        title : "Hanging Pot of Flowers",
+        description : "Farmer's Market at UMD."
     },
     {
         src : getImageUrl("nature/13.JPG"),
-        title : "",
-        description : ""
+        title : "Rainbow",
+        description : "Prince Frederick Hall, UMD"
     },
     {
         src : getImageUrl("nature/14.JPG"),
-        title : "",
-        description : ""
+        title : "Tulips",
+        description : "Washington, D.C"
     },
     {
         src : getImageUrl("nature/15.JPG"),
-        title : "",
-        description : ""
+        title : "Hanging Flowers on Old Trees",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/16.JPG"),
-        title : "",
-        description : ""
+        title : "Technica Hydrangeas",
+        description : "Annapolis, MD"
     },
     {
         src : getImageUrl("nature/17.JPG"),
-        title : "",
-        description : ""
+        title : "The Birds Sing",
+        description : "Brookgreen Gardens, SC"
     },
     {
         src : getImageUrl("nature/18.JPG"),
-        title : "",
-        description : ""
+        title : "Fence Flowers",
+        description : "Annapolis, MD"
     }
 ]

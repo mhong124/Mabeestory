@@ -4,108 +4,108 @@ export const foodJ =
 [
     {
         src : getImageUrl("food/1.JPG"),
-        title : "",
-        description : ""
+        title : "Spicy Ramen",
+        description : "Akira Volcano Ramen"
     },
     {
         src : getImageUrl("food/2.JPG"),
-        title : "",
-        description : ""
+        title : "Chocolate Doughnut",
+        description : "Tous Les Jours treat!"
     },
     {
         src : getImageUrl("food/3.JPG"),
-        title : "",
-        description : ""
+        title : "Mitsuwa Food",
+        description : "Forgot what the dish is called, but it's a variety of tempura!"
     },
     {
         src : getImageUrl("food/4.JPG"),
-        title : "",
-        description : ""
+        title : "Amber Birthday Cake",
+        description : "Celebrated my friend Amber's birthday!"
     },
     {
         src : getImageUrl("food/5.JPG"),
-        title : "",
-        description : ""
+        title : "Strawberries",
+        description : "Strawberries from the UMD Farmer's Market!"
     },
     {
         src : getImageUrl("food/6.JPG"),
-        title : "",
-        description : ""
+        title : "Apples",
+        description : "Bright red apples from the UMD Farmer's Market!"
     },
     {
         src : getImageUrl("food/7.JPG"),
-        title : "",
-        description : ""
+        title : "Turnips and Carrots",
+        description : "Loads of bundles of vegetables at the UMD Farmer's Market!"
     },
     {
         src : getImageUrl("food/8.JPG"),
-        title : "",
-        description : ""
+        title : "Pastries",
+        description : "Lemon and Raspberry chocolate pastries from a french bakery."
     },
     {
         src : getImageUrl("food/9.JPG"),
-        title : "",
-        description : ""
+        title : "More Pastries",
+        description : "Curry pastry and passionfruit pastry from Rose Ave in D.C."
     },
     {
         src : getImageUrl("food/10.JPG"),
-        title : "",
-        description : ""
+        title : "Xiao Long Bao",
+        description : "Xiao Long Bao at Eastern Gourmet."
     },
     {
         src : getImageUrl("food/11.JPG"),
-        title : "",
-        description : ""
+        title : "Mapo Tofu",
+        description : "Mapo Tofu at Eastern Gourmet."
     },
     {
         src : getImageUrl("food/12.JPG"),
-        title : "",
-        description : ""
+        title : "Mocktails",
+        description : "Mocktails from a Technica game night!"
     },
     {
         src : getImageUrl("food/13.JPG"),
-        title : "",
-        description : ""
+        title : "Hot Stone Bimbimbap",
+        description : "Hot Stone Beef Bibimbap from Siroo and Juk Story."
     },
     {
         src : getImageUrl("food/14.JPG"),
-        title : "",
-        description : ""
+        title : "Mango Bingsu",
+        description : "Mango Bingsu from Siroo and Juk Story."
     },
     {
         src : getImageUrl("food/15.JPG"),
-        title : "",
-        description : ""
+        title : "Seafood Udon",
+        description : "Seafood Udon from Siroo and Juk Story."
     },
     {
         src : getImageUrl("food/16.JPG"),
-        title : "",
-        description : ""
+        title : "Cakes",
+        description : "A variety of cakes from Tous les Jours."
     },
     {
         src : getImageUrl("food/17.JPG"),
-        title : "",
-        description : ""
+        title : "Bulgolgi Plate",
+        description : "Bulgolgi with Rice and Shredded Cabbage from Siroo and Juk Story!"
     },
     {
         src : getImageUrl("food/18.JPG"),
-        title : "",
-        description : ""
+        title : "Gyoza",
+        description : "Gyoza from a sushi place in Annapolis."
     },
     {
         src : getImageUrl("food/19.JPG"),
-        title : "",
-        description : ""
+        title : "TteokBeoki",
+        description : "Spicy Rice Cakes from bbq Chicken in Ellicott City."
     },
     {
         src : getImageUrl("food/20.JPG"),
-        title : "",
-        description : ""
+        title : "Honey Garlic Korean Fried Chicken",
+        description : "Hony Garlic chicken from bbq Chicken."
     },
     {
         src : getImageUrl("food/21.JPG"),
-        title : "",
-        description : ""
+        title : "Cake!",
+        description : "My 20th Mango Cloud birthday cake from Tous les Jours."
     },
     
 ]
