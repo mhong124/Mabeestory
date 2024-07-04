@@ -9,9 +9,12 @@ import Food from "./routes/Food";
 import Misc from "./routes/Misc";
 import Places from "./routes/Places"
 
+import ScrollToTop from "./scroll";
+
 export default function App() {
   return (
     <div className = "App">
+      <ScrollToTop />
       <Routes>
         <Route path = "/" element = {<Home/>}/>
         <Route path = "/nature" element = {<Nature/>}/>

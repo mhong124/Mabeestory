@@ -34,7 +34,6 @@
     transform: translate(-50%, -50%);
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 25px;
     padding: 20px;
     color: white;
 }
