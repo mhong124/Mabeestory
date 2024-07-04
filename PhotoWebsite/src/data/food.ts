@@ -91,5 +91,21 @@ export const foodJ =
         src : getImageUrl("food/18.JPG"),
         title : "",
         description : ""
-    }
+    },
+    {
+        src : getImageUrl("food/19.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/20.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/21.JPG"),
+        title : "",
+        description : ""
+    },
+    
 ]

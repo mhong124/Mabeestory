@@ -61,5 +61,15 @@ export const peopleJ =
         src : getImageUrl("people/12.JPG"),
         title : "",
         description : ""
+    },
+    {
+        src : getImageUrl("people/13.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("people/14.JPG"),
+        title : "",
+        description : ""
     }
 ]

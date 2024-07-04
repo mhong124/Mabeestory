@@ -91,5 +91,20 @@ export const miscJ =
         src : getImageUrl("misc/18.JPG"),
         title : "",
         description : ""
+    },
+    {
+        src : getImageUrl("misc/19.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("misc/20.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("misc/21.JPG"),
+        title : "",
+        description : ""
     }
 ]
