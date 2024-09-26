@@ -91,5 +91,25 @@ export const placesJ =
         src : getImageUrl("places/18.JPG"),
         title : "",
         description : ""
+    },
+    {
+        src : getImageUrl("places/19.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("places/20.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("places/21.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("places/22.JPG"),
+        title : "",
+        description : ""
     }
 ]
