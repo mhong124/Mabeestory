@@ -91,5 +91,25 @@ export const natureJ =
         src : getImageUrl("nature/18.JPG"),
         title : "Fence Flowers",
         description : "Annapolis, MD"
+    },
+    {
+        src : getImageUrl("nature/19.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("nature/20.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("nature/21.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("nature/22.jpg"),
+        title : "",
+        description : ""
     }
 ]
