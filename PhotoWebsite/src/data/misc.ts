@@ -111,5 +111,40 @@ export const miscJ =
         src : getImageUrl("misc/22.JPG"),
         title : "",
         description : ""
-    }
+    },
+    {
+        src : getImageUrl("misc/23.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("misc/24.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("misc/25.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("misc/26.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("misc/27.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("misc/28.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("misc/29.jpg"),
+        title : "",
+        description : ""
+    },
 ]

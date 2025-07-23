@@ -121,5 +121,55 @@ export const foodJ =
         src : getImageUrl("food/24.JPG"),
         title : "",
         description : ""
-    }
+    },
+    {
+        src : getImageUrl("food/25.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/26.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/27.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/28.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/29.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/30.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/31.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/32.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/33.JPG"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("food/34.JPG"),
+        title : "",
+        description : ""
+    },
 ]

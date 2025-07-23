@@ -111,5 +111,25 @@ export const natureJ =
         src : getImageUrl("nature/22.jpg"),
         title : "",
         description : ""
+    },
+    {
+        src : getImageUrl("nature/23.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("nature/24.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("nature/25.jpg"),
+        title : "",
+        description : ""
+    },
+    {
+        src : getImageUrl("nature/26.jpg"),
+        title : "",
+        description : ""
     }
 ]
